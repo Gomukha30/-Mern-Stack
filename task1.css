@@ -1,0 +1,15 @@
+table {
+  background-color: aquamarine;
+  height: 150px;
+  width: 70%;
+  border-collapse: separate;
+  border: 1px solid black;
+  border-radius: 5%;
+  border-spacing: 10px;
+}
+th {
+  border-radius: 30%;
+}
+td {
+  border-radius: 30%;
+}

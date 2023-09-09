@@ -1,0 +1,15 @@
+.table {
+  border: 1px solid;
+  border-collapse: collapse;
+  width: 75%;
+}
+.heading {
+  background-color: rgb(70, 130, 70);
+  text-align: justify;
+}
+.odd {
+  background-color: azure;
+}
+.even {
+  background-color: darkgrey;
+}
